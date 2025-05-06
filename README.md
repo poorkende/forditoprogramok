@@ -1,2 +1,2 @@
 BEADANDO
-Neotun kód: REEAQ9
+Neptun kód: REEAQ9
