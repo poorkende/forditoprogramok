@@ -1,0 +1,2 @@
+BEADANDO
+Neotun kód: REEAQ9
