@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1745998914 source:c:\users\msi\desktop\codeblocks.feladatok\feladat\altalanos_ll1\main.cpp
+	<iostream>
+	<vector>
+	<unordered_map>
+	<string>
+	<stack>
+	<unordered_set>
+

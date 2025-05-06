@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1745996261 source:c:\users\msi\desktop\codeblocks.feladatok\feladat\felulrol_lefele\main.cpp
+	<iostream>
+	<vector>
+	<string>
+

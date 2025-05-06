@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1746000075 source:c:\users\msi\desktop\codeblocks.feladatok\feladat\cyk algoritmus\main.cpp
+	<iostream>
+	<vector>
+	<unordered_map>
+	<set>
+

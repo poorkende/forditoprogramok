@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1745999259 source:c:\users\msi\desktop\codeblocks.feladatok\feladat\lr0\main.cpp
+	<iostream>
+	<vector>
+	<unordered_map>
+	<string>
+	<stack>
+

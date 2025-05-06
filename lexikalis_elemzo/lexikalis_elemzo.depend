@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1745995163 source:c:\users\msi\desktop\codeblocks.feladatok\feladat\lexikalis_elemzo\main.cpp
+	<iostream>
+	<sstream>
+	<vector>
+	<regex>
+	<unordered_map>
+	<string>
+
